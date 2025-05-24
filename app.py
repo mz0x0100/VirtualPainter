@@ -36,7 +36,7 @@ img_canvas = np.zeros((cam_height, cam_width, 3), np.uint8)
 p_time = 0
 xp, yp = 0, 0
 
-url = 'http://192.168.43.162:8080/shot.jpg'
+# url = 'http://192.168.43.162:8080/shot.jpg'
 
 p_time = 0
 while True:
